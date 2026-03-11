@@ -62,11 +62,12 @@
   </tr>
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>🎓 Education</strong></td>
-    <td style="border: 1px solid #333; padding: 6px;">B.Sc. (Hons) Data Science — CGPA 3.53/4.0</td>
+    <td style="border: 1px solid #333; padding: 6px;">B.Sc. (Hons) Data Science CGPA 3.53/4.0</td>
   </tr>
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
-    <td style="border: 1px solid #333; padding: 6px;">🥇 Runner-Up — Second Position In Innovative 2.0 FYP Competition</td>
+    <td style="border: 1px solid #333; padding: 6px;">🥇 Runner-Up Second Position In Innovative 2.0 FYP Competition</td>
+    <td style="border: 1px solid #333; padding: 6px;">🥇 Winner First Position Highest CGPA Fall Semester 2025 In Batch </td>
   </tr>
 </table>
 
@@ -102,8 +103,6 @@
 **🔬 IEEE Researcher (Under Review 2026)**
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE_AI_in_Healthcare-Under_Review-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/qadeerj)
-[![IEEE CVPR](https://img.shields.io/badge/IEEE%2FCVF_CVPR-Under_Review-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/qadeerj)
-
 </div>
 
 <br/>
@@ -112,9 +111,6 @@
 
 > **"Attention-Based Multi-Modal Deep Learning Framework for Neurodevelopmental Disorder Detection"**  
 > *IEEE International Conference on AI in Healthcare 2026*
-
-> **"Uncertainty-Aware Deep Learning for Risk-Based Decision Support in Visual Surveillance Systems"**  
-> *IEEE/CVF CVPR 2026*
 
 #### 🎯 Impact Areas
 
@@ -132,7 +128,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Papers-2_Under_Review-00629B?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Papers-1_Under_Review-00629B?style=flat-square&logo=google-scholar" />
   <img src="https://img.shields.io/badge/Field-Medical_AI-00629B?style=flat-square" />
   <img src="https://img.shields.io/badge/Venue-IEEE_2026-00629B?style=flat-square&logo=ieee" />
 </p>
