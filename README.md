@@ -20,10 +20,10 @@
   <a href="mailto:qadeercontact1211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://github.com/qadeerj">
+  <a href="https://github.com/QadeerDev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=qadeerj&label=Profile%20Views&color=00F7F7&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=QadeerDev&label=Profile%20Views&color=00F7F7&style=for-the-badge"/>
 </p>
 
 <!-- Animated Divider -->
@@ -105,7 +105,7 @@
 
 **🔬 IEEE Researcher (Under Review 2026)**
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE_AI_in_Healthcare-Under_Review-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/qadeerj)
+[![IEEE Paper](https://img.shields.io/badge/IEEE_AI_in_Healthcare-Under_Review-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/QadeerDev)
 </div>
 
 <br/>
@@ -263,7 +263,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Multi-Modal ASD Detection (FYP)](https://github.com/qadeerj)
+### 🧠 [Multi-Modal ASD Detection (FYP)](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🧠_Multi--Modal_ASD_Detection-FYP_Project-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -282,7 +282,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔫 [Weapon Detection System](https://github.com/qadeerj)
+### 🔫 [Weapon Detection System](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🔫_Weapon_Detection_System-YOLOv8%2Fv9_Real--Time-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -304,7 +304,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 [Brain Tumor Detection CNN](https://github.com/qadeerj)
+### 🧪 [Brain Tumor Detection CNN](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🧪_Brain_Tumor_Detection-CNN_Medical_Imaging-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -323,7 +323,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Credit Card Fraud Detection](https://github.com/qadeerj)
+### 💳 [Credit Card Fraud Detection](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/💳_Credit_Card_Fraud_Detection-ML_Classification-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -345,7 +345,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Banking Chatbot (NLP)](https://github.com/qadeerj)
+### 🤖 [Banking Chatbot (NLP)](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🤖_Banking_Chatbot-NLP_Flask_Deployment-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -364,7 +364,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 😊 [Facial Emotion Recognition](https://github.com/qadeerj)
+### 😊 [Facial Emotion Recognition](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/😊_Facial_Emotion_Recognition-CNN_89%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -386,7 +386,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌡️ [Motor Temperature Prediction (LSTM)](https://github.com/qadeerj)
+### 🌡️ [Motor Temperature Prediction (LSTM)](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🌡️_Motor_Temperature_Prediction-ANN_%26_LSTM_Models-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -405,7 +405,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🐦 [Twitter Sentiment Analysis](https://github.com/qadeerj)
+### 🐦 [Twitter Sentiment Analysis](https://github.com/QadeerDev)
 
 <img src="https://img.shields.io/badge/🐦_Twitter_Sentiment_Analysis-1.6M_Tweets_87%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
@@ -427,7 +427,7 @@
 
 <div align="center">
 
-### [🔗 View All Projects →](https://github.com/qadeerj?tab=repositories)
+### [🔗 View All Projects →](https://github.com/QadeerDev?tab=repositories)
 
 </div>
 
@@ -447,8 +447,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=qadeerj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qadeerj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=00F7F7&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=QadeerDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QadeerDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=00F7F7&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -456,8 +456,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadeerj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10&hide=html,css,jupyter%20notebook" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=qadeerj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&area_color=00F7F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QadeerDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10&hide=html,css,jupyter%20notebook" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=QadeerDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&area_color=00F7F7" />
 
 </div>
 
@@ -495,7 +495,7 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/qadeerj">
+<a href="https://github.com/QadeerDev">
 <img src="https://img.icons8.com/fluency/96/github.png" width="60"/><br/>
 <strong>GitHub</strong><br/>
 <sub>Code Portfolio</sub>
@@ -529,7 +529,7 @@
 
 ---
 
-### ⭐ From [qadeerj](https://github.com/qadeerj)
+### ⭐ From [QadeerDev](https://github.com/QadeerDev)
 
 **Transforming Data into Decisions — One Model at a Time** 🚀
 
