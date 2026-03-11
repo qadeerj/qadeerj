@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>💼 Freelance</strong></td>
-    <td style="border: 1px solid #333; padding: 6px;">Fiverr — 45+ AI/ML Projects Delivered</td>
+    <td style="border: 1px solid #333; padding: 6px;">Fiverr 45+ AI/ML Projects Delivered</td>
   </tr>
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>📍 Location</strong></td>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
-    <td style="border: 1px solid #333; padding: 6px;">🥇 Gold Medalist — Highest CGPA in Batch</td>
+    <td style="border: 1px solid #333; padding: 6px;">🥇 Runner-Up — Second Position In Innovative 2.0 FYP Competition</td>
   </tr>
 </table>
 
