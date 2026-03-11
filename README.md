@@ -92,7 +92,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Freelance_Projects-45%2B-00F7F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gold_Medalist-Batch_Topper-00F7F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Runner-Up Of Innovative FYP Competetion-00F7F7?style=flat-square" />
   <img src="https://img.shields.io/badge/IELTS-Band_6.5-00F7F7?style=flat-square" />
 </p>
 
