@@ -502,8 +502,8 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="[https://www.fiverr.com/qadeeryounas">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" width="120"/><br/><br/>
+<a href="https://www.fiverr.com/qadeeryounas">
+<img src="https://img.icons8.com/color/96/fiverr.png" width="60"/><br/>
 <strong>Fiverr</strong><br/>
 <sub>45+ Projects</sub>
 </a>
