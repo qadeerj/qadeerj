@@ -68,9 +68,9 @@
     <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
     <td style="border: 1px solid #333; padding: 6px;">🥇 Runner-Up Second Position In Innovative 2.0 FYP Competition</td>
   </tr>
-    <tr>
+  <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
-    <td style="border: 1px solid #333; padding: 6px;">🥇 Winner First Position Highest CGPA Fall Semester 2025 In Batch </td>
+    <td style="border: 1px solid #333; padding: 6px;">🥇 Winner First Position Highest CGPA Fall Semester 2025 In Batch</td>
   </tr>
 </table>
 
@@ -252,7 +252,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-
 <!-- Featured Projects -->
 <details open>
 <summary><h2>🌟 Featured Projects</h2></summary>
@@ -263,81 +262,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Multi-Modal ASD Detection (FYP)](https://github.com/QadeerDev)
+### 🫀 [Global Cardiometabolic Risk Dashboard](https://github.com/QadeerDev/GLOBAL-TRENDS-IN-CARDIOMETABOLIC-RISK-FACTORS-1975-2016-ANALYSIS-USING-POWER-BI-)
 
-<img src="https://img.shields.io/badge/🧠_Multi--Modal_ASD_Detection-FYP_Project-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🫀_Global_Cardiometabolic_Risk_Dashboard-Power_BI_%7C_WHO_Data_%7C_200_Countries-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**Attention-based CNN fusion of sMRI & fMRI for Autism Spectrum Disorder detection**
+**Interactive Power BI dashboard tracking Obesity, Diabetes & Blood Pressure trends across 200 countries from 1975–2016**
 
 #### 🎯 Key Features
-- 🧠 Multi-modal MRI fusion (sMRI + fMRI)
-- 🎯 98% classification accuracy
-- 🔬 Attention mechanism for feature extraction
-- 📊 ROC-AUC, F1-score & confusion matrix evaluation
+- 📊 5 report pages — Global Overview, Comparative Analysis, Country Deep Dive, Policy Insights, Risk Breakdown
+- 🌍 200 countries — 47,000+ records across 3 WHO health indicators
+- 📐 21 custom DAX measures including Gender Gap, Combined Risk & Yearly Rank
+- 🔬 Bubble scatter charts, treemaps, donut & stacked column visuals
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/-Attention_CNN-00F7F7?style=flat-square&logo=python&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/-DAX_Measures-00F7F7?style=flat-square&logo=powerbi&logoColor=black)
+![WHO Data](https://img.shields.io/badge/-WHO_Global_Data-green?style=flat-square&logo=data&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔫 [Weapon Detection System](https://github.com/QadeerDev)
+### 🎓 [AI Student Dropout Risk Predictor](https://github.com/QadeerDev/AI-Based-Student-Dropout-Risk-Predictor-using-ML-)
 
-<img src="https://img.shields.io/badge/🔫_Weapon_Detection_System-YOLOv8%2Fv9_Real--Time-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🎓_AI_Student_Dropout_Risk_Predictor-XGBoost_%7C_Flask_%7C_SHAP-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**Real-time YOLOv8/v9 weapon detection on live IP camera streams**
-
-#### 🎯 Key Features
-- 🎥 Live IP camera stream inference
-- 🔍 94% detection accuracy
-- ⚡ Real-time video analytics
-- 🚨 Automated alert integration
-
-![YOLOv8](https://img.shields.io/badge/-YOLOv8%2Fv9-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [Brain Tumor Detection CNN](https://github.com/QadeerDev)
-
-<img src="https://img.shields.io/badge/🧪_Brain_Tumor_Detection-CNN_Medical_Imaging-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
-
-**MRI-based brain tumor classification with 95% accuracy**
+**End-to-end ML system predicting student dropout risk using academic, demographic & socioeconomic indicators**
 
 #### 🎯 Key Features
-- 🏥 Medical imaging with CNN architecture
-- 📈 95% classification accuracy
-- 🔄 Data augmentation & dropout regularization
-- 📊 Early stopping & overfitting control
+- 🤖 5 models evaluated — XGBoost selected as best performer
+- 🌐 Flask web app with demo Low Risk / High Risk pre-fill buttons
+- 🧠 SHAP explainability + Partial Dependence Plots for Ethical AI
+- 📊 Top 20 features selected via Random Forest importance scoring
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-00F7F7?style=flat-square&logo=python&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 [Credit Card Fraud Detection](https://github.com/QadeerDev)
-
-<img src="https://img.shields.io/badge/💳_Credit_Card_Fraud_Detection-ML_Classification-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
-
-**SMOTE-optimized fraud detection with precision-recall threshold tuning**
-
-#### 🎯 Key Features
-- ⚖️ SMOTE for class imbalance handling
-- 🎯 Decision threshold optimization
-- 🌲 Random Forest + Logistic Regression
-- 📊 Precision-recall tradeoff analysis
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SHAP](https://img.shields.io/badge/-SHAP_Explainability-FF6B6B?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -345,40 +303,81 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Banking Chatbot (NLP)](https://github.com/QadeerDev)
+### 🎬 [ClipSpark — AI Video Clip Generator](https://github.com/QadeerDev/ClipSpark-Turn-Long-Videos-into-Viral-Ready-Clips-Using-AI)
 
-<img src="https://img.shields.io/badge/🤖_Banking_Chatbot-NLP_Flask_Deployment-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🎬_ClipSpark-YOLOv8_%7C_FastAPI_%7C_Celery_%7C_Docker-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**Rule-based NLP banking assistant deployed with Flask + Random Forest**
+**Industrial-grade AI pipeline that auto-extracts the most engaging 15s, 30s & 60s clips from long-form video using motion + human presence analysis**
 
 #### 🎯 Key Features
-- 💬 Intent matching & decision-tree logic
-- 🏦 Account, loan & transaction query handling
-- 🔑 Keyword extraction & conditional branching
-- 🌐 Flask production deployment
+- ⚡ 6-phase pipeline — Ingestion → Scene Detection → Intelligence Extraction → Scoring → Selection → Production
+- 🧠 YOLOv8 human detection fused with frame-difference motion analysis (60/40 weighting)
+- 🌐 FastAPI + Celery + Redis async processing with UUID job tracking
+- 🐳 Docker-ready with JSON result manifest and clip validation
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery_+_Redis-37814A?style=flat-square&logo=celery&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 😊 [Facial Emotion Recognition](https://github.com/QadeerDev)
+### 🏪 [AI People Counter — Store Entry/Exit](https://github.com/QadeerDev/AI-Based-People-Enter-Exit-a-Store-Detector-Counter-System-Using-CV)
 
-<img src="https://img.shields.io/badge/😊_Facial_Emotion_Recognition-CNN_89%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🏪_AI_People_Counter-YOLOv11_%7C_OpenCV_%7C_Real--Time-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**CNN-based real-time facial emotion recognition with 89% accuracy**
+**Real-time people counting system using YOLOv11 that tracks entry & exit through customizable polygonal zones**
 
 #### 🎯 Key Features
-- 😊 Multi-class emotion classification
-- 🖼️ Grayscale normalization & augmentation
-- 📊 Precision, recall & confusion matrix
-- ⚡ Real-time face processing pipeline
+- 🎯 Bi-directional counting — separate Enter / Exit tallies per region
+- ⚡ GPU-accelerated with CUDA + frame-skipping for real-time performance
+- 📊 CSV export with timestamped logs and live FPS metrics
+- 🖱️ Interactive drag-and-drop region adjustment while counting continues
 
+![YOLOv11](https://img.shields.io/badge/-YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA_GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [AI Fire & Smoke Detection System](https://github.com/QadeerDev/AI-Based-Fire-Smoke-Detection-System-Using-CV)
+
+<img src="https://img.shields.io/badge/🔥_AI_Fire_%26_Smoke_Detection-Computer_Vision_%7C_Real--Time_Alerts-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+
+**Real-time fire and smoke detection system using Computer Vision for automated safety surveillance**
+
+#### 🎯 Key Features
+- 🔥 Simultaneous fire and smoke detection in live video streams
+- 🚨 Automated alert system triggered on hazard detection
+- 📹 Real-time video stream processing with bounding box overlays
+- 🏭 Suitable for industrial, warehouse and indoor safety monitoring
+
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 [American Sign Language Detection](https://github.com/QadeerDev/American-Sign-language-Detection-System)
+
+<img src="https://img.shields.io/badge/🤟_ASL_Detection_System-MediaPipe_%7C_CNN_%7C_Real--Time-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+
+**Real-time American Sign Language recognition system using hand landmark detection and deep learning classification**
+
+#### 🎯 Key Features
+- 🤚 Hand landmark detection via MediaPipe for precise gesture tracking
+- 🔤 Multi-class ASL alphabet and gesture classification
+- ⚡ Real-time webcam inference with live prediction overlay
+- 📊 Deep learning classifier trained on sign language gesture dataset
+
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-00F7F7?style=flat-square&logo=python&logoColor=black)
 
 </td>
 </tr>
@@ -386,40 +385,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌡️ [Motor Temperature Prediction (LSTM)](https://github.com/QadeerDev)
+### 🎬 [Movie Recommendation System](https://github.com/QadeerDev/Movie-Recommended-System-)
 
-<img src="https://img.shields.io/badge/🌡️_Motor_Temperature_Prediction-ANN_%26_LSTM_Models-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🎬_Movie_Recommendation_System-Content--Based_%7C_NLP_%7C_Cosine_Similarity-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**ANN & LSTM models for time-series motor temperature forecasting**
+**Content-based movie recommendation engine using NLP and cosine similarity to suggest movies based on user preferences**
 
 #### 🎯 Key Features
-- ⏱️ Time-series forecasting with LSTM
-- 🔄 ANN vs LSTM comparative analysis
-- 📉 90%+ prediction accuracy with low MAE
-- 📊 Sequential modeling performance analysis
+- 🎯 Content-based filtering using movie metadata and genre features
+- 🔤 TF-IDF vectorization + cosine similarity for recommendation scoring
+- 🎬 Trained on large movie dataset with genre, cast and description features
+- 🌐 Clean user interface for searching and receiving personalized suggestions
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LSTM](https://img.shields.io/badge/-LSTM-00F7F7?style=flat-square&logo=python&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP_Pipeline-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐦 [Twitter Sentiment Analysis](https://github.com/QadeerDev)
+### 🔑 [Keyword Extractor](https://github.com/QadeerDev/Keyword-Extractor)
 
-<img src="https://img.shields.io/badge/🐦_Twitter_Sentiment_Analysis-1.6M_Tweets_87%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
+<img src="https://img.shields.io/badge/🔑_Keyword_Extractor-KeyBERT_%7C_TF--IDF_%7C_Flask_API-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
-**Sentiment analysis system trained on 1.6M tweets with 87% accuracy**
+**Intelligent keyword extraction tool combining KeyBERT semantic embeddings and TF-IDF for accurate key phrase identification from text**
 
 #### 🎯 Key Features
-- 🐦 1.6M tweet training dataset
-- 🔤 TF-IDF vectorization pipeline
-- 📊 87% classification accuracy
-- 🧹 Full NLP preprocessing pipeline
+- 🧠 KeyBERT semantic similarity for context-aware keyword extraction
+- 📊 TF-IDF statistical scoring for term frequency weighting
+- 🌐 Flask REST API deployment for production text processing
+- 📝 Supports multi-sentence and long-form document inputs
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![KeyBERT](https://img.shields.io/badge/-KeyBERT-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/-TF--IDF-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
 </tr>
@@ -432,7 +431,6 @@
 </div>
 
 </details>
-
 
 <!-- Animated Divider -->
 <div align="center">
@@ -460,6 +458,8 @@
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=QadeerDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&area_color=00F7F7" />
 
 </div>
+
+</details>
 
 <!-- Animated Divider -->
 <div align="center">
@@ -511,7 +511,9 @@
 </tr>
 </table>
 
-<br/>
+</div>
+
+</details>
 
 <!-- Animated Divider -->
 <div align="center">
