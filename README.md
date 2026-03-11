@@ -252,6 +252,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+
 <!-- Featured Projects -->
 <details open>
 <summary><h2>🌟 Featured Projects</h2></summary>
@@ -264,9 +265,7 @@
 
 ### 🧠 [Multi-Modal ASD Detection (FYP)](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Multi-Modal-ASD-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🧠_Multi--Modal_ASD_Detection-FYP_Project-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **Attention-based CNN fusion of sMRI & fMRI for Autism Spectrum Disorder detection**
 
@@ -285,9 +284,7 @@
 
 ### 🔫 [Weapon Detection System](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Weapon-Detection-YOLOv8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🔫_Weapon_Detection_System-YOLOv8%2Fv9_Real--Time-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **Real-time YOLOv8/v9 weapon detection on live IP camera streams**
 
@@ -309,9 +306,7 @@
 
 ### 🧪 [Brain Tumor Detection CNN](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Brain-Tumor-Detection-CNN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🧪_Brain_Tumor_Detection-CNN_Medical_Imaging-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **MRI-based brain tumor classification with 95% accuracy**
 
@@ -330,9 +325,7 @@
 
 ### 💳 [Credit Card Fraud Detection](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/💳_Credit_Card_Fraud_Detection-ML_Classification-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **SMOTE-optimized fraud detection with precision-recall threshold tuning**
 
@@ -354,9 +347,7 @@
 
 ### 🤖 [Banking Chatbot (NLP)](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Banking-Chatbot-NLP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🤖_Banking_Chatbot-NLP_Flask_Deployment-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **Rule-based NLP banking assistant deployed with Flask + Random Forest**
 
@@ -375,9 +366,7 @@
 
 ### 😊 [Facial Emotion Recognition](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Emotion-Detection-CNN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/😊_Facial_Emotion_Recognition-CNN_89%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **CNN-based real-time facial emotion recognition with 89% accuracy**
 
@@ -399,9 +388,7 @@
 
 ### 🌡️ [Motor Temperature Prediction (LSTM)](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Motor-Temperature-LSTM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🌡️_Motor_Temperature_Prediction-ANN_%26_LSTM_Models-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **ANN & LSTM models for time-series motor temperature forecasting**
 
@@ -420,9 +407,7 @@
 
 ### 🐦 [Twitter Sentiment Analysis](https://github.com/qadeerj)
 
-<a href="https://github.com/qadeerj">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qadeerj&repo=Twitter-Sentiment-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+<img src="https://img.shields.io/badge/🐦_Twitter_Sentiment_Analysis-1.6M_Tweets_87%25_Accuracy-00F7F7?style=for-the-badge&labelColor=0D1117" width="100%"/>
 
 **Sentiment analysis system trained on 1.6M tweets with 87% accuracy**
 
@@ -447,6 +432,7 @@
 </div>
 
 </details>
+
 
 <!-- Animated Divider -->
 <div align="center">
