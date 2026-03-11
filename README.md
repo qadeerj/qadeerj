@@ -67,6 +67,9 @@
   <tr>
     <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
     <td style="border: 1px solid #333; padding: 6px;">🥇 Runner-Up Second Position In Innovative 2.0 FYP Competition</td>
+  </tr>
+    <tr>
+    <td style="border: 1px solid #333; padding: 6px;"><strong>🏅 Award</strong></td>
     <td style="border: 1px solid #333; padding: 6px;">🥇 Winner First Position Highest CGPA Fall Semester 2025 In Batch </td>
   </tr>
 </table>
